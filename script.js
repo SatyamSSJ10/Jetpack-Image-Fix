@@ -16,7 +16,7 @@
 
 <script>
   document.getElementById("fix-images-btn").addEventListener("click", function () {
-    const images = document.querySelectorAll("img"); // get all images
+    const images = document.querySelectorAll("img"); // get all images ##div.page-break img
     for (let i = 0; i < images.length; i++) {
       images[i].onerror = function () { // check if the image fails to load
         const imgUrl = images[i].src;
