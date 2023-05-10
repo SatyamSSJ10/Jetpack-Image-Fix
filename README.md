@@ -6,3 +6,9 @@ Jetpack CDN is a free wordpress CDN. It'll do everything itself, you just have t
 
 ## Working
 This Script adds a button on the middle bottom of the screen called "Fix-Broken-Image" after clicking this button. This script will fix the dead links for the particular user. The user will have to reload the image though. Right Click > Reload Image.
+
+## Setup
+Add this script in the widgets tabs, as an HTML widget. Just copy paste the contents of the script.
+
+## To Do
+Need to make it so that it'll detect Broken Images before hand so the user won't have to do anything. The Code is Ready but I have to test it.
