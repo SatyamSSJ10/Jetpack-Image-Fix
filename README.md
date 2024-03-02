@@ -1,5 +1,5 @@
 # Jetpack-CDN-Image-Fix
-if Jetpack can't fetch image from your website than it shows a Broken Image. This Script will fix it.
+if Jetpack can't fetch image from your website than it shows a Broken Image. This Script will fix it. There are two options to choose from, Script.js and Jetpack-Fix-V1. Both have different working.
 ## Jetpack Fix v1 
 It changes the ```ssl?={int}``` if the image link is bad. You might need to change the ```line 3``` in the code, to get all the image tags under specific div.
 
